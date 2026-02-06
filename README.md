@@ -218,8 +218,8 @@ end
       play_game()
 <hr>
 <h2>Output:</h2>
-<img width="284" height="1111" alt="image" src="https://github.com/user-attachments/assets/f8f51733-f805-4491-a5d3-1cf6faf8ae25" />
-<img width="308" height="542" alt="image" src="https://github.com/user-attachments/assets/1bee7fe7-d634-465c-a1f2-005ab9d6414b" />
+<img width="284" height="1111" alt="image" src="https://github.com/user-attachments/assets/b6741bdc-55f1-4a53-b4c9-293159aea988" />
+<img width="308" height="542" alt="image" src="https://github.com/user-attachments/assets/a5ac0dab-0579-4066-9258-1374f035d2a3" />
 
 
 <h2>Result:</h2>
